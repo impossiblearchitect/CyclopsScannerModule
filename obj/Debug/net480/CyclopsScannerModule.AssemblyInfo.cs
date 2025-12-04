@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CyclopsScannerModule")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a087efc7b96827138554ed35eb2a4b6e971d990")]
 [assembly: System.Reflection.AssemblyProductAttribute("CyclopsScannerModule")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CyclopsScannerModule")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
