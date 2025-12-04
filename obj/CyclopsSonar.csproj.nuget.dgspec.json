@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rmaxton\\Documents\\Coding\\CyclopsSonar\\CyclopsSonar.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rmaxton\\Documents\\Coding\\CyclopsSonar\\CyclopsSonar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rmaxton\\Documents\\Coding\\CyclopsSonar\\CyclopsSonar.csproj",
+        "projectName": "CyclopsSonar",
+        "projectPath": "C:\\Users\\rmaxton\\Documents\\Coding\\CyclopsSonar\\CyclopsSonar.csproj",
+        "packagesPath": "C:\\Users\\rmaxton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rmaxton\\Documents\\Coding\\CyclopsSonar\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rmaxton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net480"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net480",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net480",
+          "dependencies": {
+            "BepInEx.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.*, )"
+            },
+            "BepInEx.Core": {
+              "target": "Package",
+              "version": "[5.4.21, )"
+            },
+            "BepInEx.PluginInfoProps": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "PolySharp": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "Subnautica.GameLibs": {
+              "target": "Package",
+              "version": "[82304.0.0-r.0, )"
+            },
+            "Subnautica.Nautilus": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.*-*, )"
+            },
+            "Unity.InputSystem": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[1.4.1, )"
+            },
+            "UnityEngine.Modules": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[2019.4.36, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
